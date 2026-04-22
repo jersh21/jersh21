@@ -1,8 +1,9 @@
-## Hi there 👋
+<img width="1265" height="141" alt="github_banner_invert" src="https://github.com/user-attachments/assets/8a5b9f71-dd4c-4d40-9c07-c30416c6538a" />
+##Greetings $`\color{orangered}{\text{!}}`$ Curent focus$`\color{orangered}{\text{:}}`$  Graphics$`\color{orangered}{\text{,}}`$  C++$`\color{orangered}{\text{.}}`$
 
 
 <!--
-$`\color{orange}{\text{Software Engineering}}`$
+
 **jersh21/jersh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

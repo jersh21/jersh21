@@ -2,16 +2,10 @@
 
 ## Curent focus$`\color{orangered}{\text{:}}`$  Music$`\color{orangered}{\text{,}}`$ C++$`\color{orangered}{\text{.}}`$
 
-
-
-**jersh21/jersh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-$`\color{orangered}{\text{-}}`$ 🔭 I’m currently working on C++ tutorials
-$`\color{orangered}{\text{-}}`$ 🌱 I’m currently learning C++
-$`\color{orangered}{\text{-}}`$ 👯 I’m looking to collaborate:
-$`\color{orangered}{\text{-}}`$ 🤔 I’m looking for help with:
-$`\color{orangered}{\text{-}}`$ 💬 Ask me about Synthesizers
-$`\color{orangered}{\text{-}}`$ 📫 How to reach me: Jersh21@gmail.com
-$`\color{orangered}{\text{-}}`$ ⚡ Fun fact: I'm great at cooking breakfast
+- 🔭 I’m currently working on$`\color{orangered}{\text{:}}`$ C++ tutorials
+- 🌱 I’m currently learning$`\color{orangered}{\text{:}}`$ C++
+- 👯 I’m looking to collaborate$`\color{orangered}{\text{:}}`$ 
+- 🤔 I’m looking for help with$`\color{orangered}{\text{:}}`$ 
+- 💬 Ask me about$`\color{orangered}{\text{:}}`$ Synthesizers
+- 📫 How to reach me$`\color{orangered}{\text{:}}`$  Jersh21@gmail.com
+- ⚡ Fun fact$`\color{orangered}{\text{:}}`$  I'm great at cooking breakfast

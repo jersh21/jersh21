@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on$`\color{orangered}{\text{:}}`$ C++ tutorials
 - 🌱 I’m currently learning$`\color{orangered}{\text{:}}`$ C++
-- 👯 I’m looking to collaborate$`\color{orangered}{\text{:}}`$ Google 
+- 👯 I’m looking to collaborate with$`\color{orangered}{\text{:}}`$ int main(void)
 - 🤔 I’m looking for help with$`\color{orangered}{\text{:}}`$ 
 - 💬 Ask me about$`\color{orangered}{\text{:}}`$ Music tastes, Software ideas
 - 📫 How to reach me$`\color{orangered}{\text{:}}`$  Jersh21@gmail.com
-- ⚡ Fun fact$`\color{orangered}{\text{:}}`$  I'm great at cooking breakfast!
+- ⚡ Fun fact$`\color{orangered}{\text{:}}`$  I'm great at cooking breakfast$`\color{orangered}{\text{!}}`$
